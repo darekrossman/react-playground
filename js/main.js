@@ -6,7 +6,7 @@ let Route = Router.Route;
  
 var routes = (
   <Route name="app" path="/" handler={App}>
-        
+    // add sub-routes here
   </Route>
 ); 
 

@@ -7,7 +7,7 @@ var App = React.createClass({
   render: function() {
     return (
       <div>
-        <h1>Big Momma&rsquo;s App</h1>
+        <h1>Welcome to your React playground!</h1>
         <RouteHandler/>
       </div>
     ); 
